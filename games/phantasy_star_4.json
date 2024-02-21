@@ -1,0 +1,60 @@
+{
+  "template": {
+    "version": "1.0.0",
+    "type": "rpg"
+  },
+  "abilities": {
+    "Foi": {
+      "description": "damage one enemy",
+      "tp": 3,
+      "element": "fire"
+    },
+    "Wat" {
+      "description": "damage one enemy",
+      "tp": 4,
+      "element": "ice"
+    },
+    "Zan" {
+      "description": "damages all enemies",
+      "tp": 8,
+      "element": "physical"
+    },
+    "Vol" {
+      "description": "chance to instantly kill one enemy",
+      "tp": 8,
+      "element": "bio"
+    },
+    "Res" {
+      "description": "heal one ally",
+      "tp": 3
+    },
+    "Gires" {
+      "description": "heal one ally",
+      "tp": 6
+    },
+    "Sar" {
+      "description": "heal all allies",
+      "tp": 12
+    },
+     "Saner" {
+      "description": "increase agility for all allies",
+      "tp": 6
+    },
+    "Shift" {
+      "description": "increase attack for one ally",
+      "tp": 8
+    },
+    "Ryuka" {
+      "description": "teleport to visited town",
+      "tp": 8
+    },
+    "Hinas" {
+      "description": "teleport out of dungeon",
+      "tp": 4
+    },
+    "Rever" {
+      "description": "revive one ally",
+      "tp": 12
+    }
+  }
+}
